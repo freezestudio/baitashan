@@ -1,0 +1,24 @@
+{
+  "name": "baitashan",
+  "version": "0.1.0",
+  "description": "microservices using nodejs and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freezestudio/baitashan.git"
+  },
+  "keywords": [
+    "micro",
+    "node",
+    "ts"
+  ],
+  "author": "freezestudio",
+  "license": "MulanPSL",
+  "bugs": {
+    "url": "https://github.com/freezestudio/baitashan/issues"
+  },
+  "homepage": "https://github.com/freezestudio/baitashan#readme"
+}
